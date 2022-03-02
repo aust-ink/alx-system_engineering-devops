@@ -1,1 +1,1 @@
-ls -la -list all hidden files
+ls -lna -list files digit
