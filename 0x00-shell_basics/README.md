@@ -1,1 +1,1 @@
-ls -l -list files in long format
+ls -la -list all hidden files
