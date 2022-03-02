@@ -1,1 +1,1 @@
-ls -Lists the content of a file
+cd -changes directory
