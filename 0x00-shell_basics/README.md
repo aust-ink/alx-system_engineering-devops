@@ -1,1 +1,1 @@
-mkdir /tmp/my_first_directory-creates myfirstdirectory in temp
+mv /tmp/betty /tmp/my_first_directory/betty copies betty to the tmp directory
